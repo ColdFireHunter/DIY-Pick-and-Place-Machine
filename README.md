@@ -2,4 +2,4 @@
 It is a Pick and Place Machine on the Software Base of OPEN PNP.
 I'am starting to build it and i will post updates evertime i build something.
 Sorry for my sometimes bad English because i'am German. :)
-All the important stuff is in the PICK AND PLACE branch.
+All the important stuff is in the PICK-AND-PLACE-MACHINE branch.
