@@ -2,6 +2,7 @@ In this section, you will find all the important information around the 3D Print
 In this file you will find a list of the files that you need to print, you will also find the instructions for printing.
 The files may change in the future.
 The files are beeing uploaded in the stl format for 3D Printing and in Fusion 360 File Format also as a step file. 
-
+Print all things in ABS or PETG with 10%-20% Infill, all objects that are marked with a star need to be printed with support.
 List of Files:
 Y Axix Motor --> print 4x
+Y Axix Belt --> print 4x
